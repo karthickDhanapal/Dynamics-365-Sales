@@ -1,13 +1,13 @@
-Dynamics 365
+<h1>Dynamics 365</h1>
 
-Welcome to Dynamics 365 for Sales!
+<h2>Welcome to Dynamics 365 for Sales!</h2>
 
 
 Dynamics 365 for Sales enables sales people to build strong relationships with their customers, take actions based on insights, and close sales faster. Use Dynamics 365 for Sales to keep track of your accounts and contacts, nurture your sales from lead to order, and create sales collateral. It also lets you create marketing lists and campaigns, and even follow service cases associated with specific accounts or opportunities
 
 
 
-What Dynamics 365 for Sales offers
+<h1>What Dynamics 365 for Sales offers</h1>
 Dynamics 365 for Sales offers great benefits, whether you're using a desktop, phone, or tablet.
 
 Benefits for sales people
@@ -25,7 +25,7 @@ Get actionable insights and suggestions based on how you work. For example, if y
 
 Find all activities (appointments, phone calls, and so on) related to a customer or opportunity in one central place, so you have the context you need to do your job.
 
-Benefits for sales managers
+<h1>Benefits for sales managers</h1
 Accelerate your team's performance by using real-time analytics based on historical data and predictive information.
 
 Monitor results, and provide feedback and coaching, in real time.
